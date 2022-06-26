@@ -1,0 +1,5 @@
+name: Match & Co
+description: Great cafe for breakfast or just a coffee. Delicious fresh food with something for everyone. Friendly staff and full table service.
+color_profile: dark  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#ffffff"
